@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**xufyan23/xufyan23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <img src="https://github.com/xufyan23/xufyan23/blob/main/profile-banner.jpeg">
 
 ##Sufyan Shahid
@@ -27,5 +24,4 @@ A High Achiever With 3+ Years Of Experience  In Design, Development And Delivery
 - 🤔 I’m looking for help with 
 - 💬 Ask me about frontend development
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to travel, gym and I also play football
--->
+- ⚡ Fun fact: I like to travel, gym :excersise and I also play football
