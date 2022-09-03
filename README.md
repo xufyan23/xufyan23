@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<img src="https://github.com/xufyan23/xufyan23/blob/main/profile-banner.jpeg"
+<img src="https://github.com/xufyan23/xufyan23/blob/main/profile-banner.jpeg"/>
 
 ##Sufyan Shahid
-A Qualified Computer Engineering Professional With Impeccable Passion for Front-End Web Development
-A High Achiever With 5+ Years of Experience in Design, Development And Delivery of Diverse Websites and Software Development Projects
+A Qualified Computer Engineering Professional with Impeccable Passion for Front-End Web Development
+A high achiever with 5+ years of experience in Design, Development and Delivery of Diverse Websites and Software Development Projects
 
 ##Skills
 * HTML
