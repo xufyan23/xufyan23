@@ -4,7 +4,7 @@
 
 ##Sufyan Shahid
 A Qualified Computer Engineering Professional With Impeccable Passion For Front-End Web Development
-A High Achiever With 3+ Years Of Experience  In Design, Development And Delivery Of Diverse Websites and Software Development Projects
+A High Achiever With 5+ Years Of Experience  In Design, Development And Delivery Of Diverse Websites and Software Development Projects
 
 ##Skills
 * HTML
@@ -15,13 +15,15 @@ A High Achiever With 3+ Years Of Experience  In Design, Development And Delivery
 * Responsive Design
 * JavaScript
 * React
+* NextJs
 * Adobe Photoshop
+* Adobe XD
+* Invasion
 * Figma
 
-- 🔭 I’m currently working on Fecundity as a frondend developer
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on Techdots as a frondend developer
+- 🌱 I’m currently learning React, web Accessiblity
 - 👯 I’m looking to collaborate on web design and development projects
-- 🤔 I’m looking for help with 
 - 💬 Ask me about frontend development
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to travel, gym and I also play football
