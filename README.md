@@ -3,7 +3,7 @@
 <img src="https://github.com/xufyan23/xufyan23/blob/main/profile-banner.jpeg"/>
 
 # 💫 About Me:
-🔭 I’m currently working on Techdots as a frondend developer<br>🌱 I’m currently learning React, web Accessiblity<br>👯 I’m looking to collaborate on web design and development projects<br>💬 Ask me about frontend development<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I like to travel, gym and I also play football
+🔭 I’m currently working on Techdots as a frontend developer<br>🌱 I’m currently learning React, web Accessibility<br>👯 I’m looking to collaborate on web design and development projects<br>💬 Ask me about frontend development<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I like to travel, gym and I also play football
 
 
 ## 🌐 Socials:
@@ -18,4 +18,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=xufyan23&icon=0&color=0)](https://visitcount.itsvg.in)
-
