@@ -3,7 +3,12 @@
 <img src="https://github.com/xufyan23/xufyan23/blob/main/profile-banner.jpeg"/>
 
 # 💫 About Me:
-🔭 I’m currently working on Techdots as a frontend developer<br>🌱 I’m currently learning React, web Accessibility<br>👯 I’m looking to collaborate on web design and development projects<br>💬 Ask me about frontend development<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I like to travel, gym and I also play football
+👋👋 Hi, I’m **Sufian Shahid**, a Frontend Developer with **6+ years of experience** crafting responsive, user-friendly interfaces — including **3 years building scalable applications** using **React**, **Next.js**, **TypeScript**, and modern styling tools like **Tailwind CSS** and **SCSS**.
+ 
+🧠 Exploring backend fundamentals with **Node.js**, **REST APIs**, and **authentication flows** to complement my frontend expertise.
+👯 Looking to collaborate on UI/UX-driven web apps and open-source frontend projects  
+💬 Ask me about frontend architecture, React, or anything UI-related  
+⚡ Fun fact: I enjoy traveling, working out, and playing football (⚽️)
 
 
 ## 🌐 Socials:
